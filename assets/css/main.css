@@ -3176,3 +3176,14 @@ section {
   background: var(--color-primary);
   text-decoration: none;
 }
+
+.play-store {
+  height: auto;
+  width: 360px;
+}
+
+.gambar {
+  text-align: center;
+  height: 300px;
+  width: 100%;
+}
